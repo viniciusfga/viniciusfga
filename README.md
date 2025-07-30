@@ -1,9 +1,9 @@
 <h2>Tecnologias</h2>
 
-<div style="display: flex; gap: 40px;">
+<div style="display: flex; gap: 40px; flex-wrap: wrap;">
 
   <!-- Front-end -->
-  <div>
+  <div style="display: flex; flex-direction: column; align-items: center;">
     <h3>Front-end</h3>
     <div style="display: flex; gap: 10px; align-items: center;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5" title="HTML5" />
@@ -13,7 +13,7 @@
   </div>
 
   <!-- Back-end -->
-  <div>
+  <div style="display: flex; flex-direction: column; align-items: center;">
     <h3>Back-end</h3>
     <div style="display: flex; gap: 10px; align-items: center;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" title="Python" />
@@ -22,7 +22,7 @@
   </div>
 
   <!-- Ciência de Dados / Visualização -->
-  <div>
+  <div style="display: flex; flex-direction: column; align-items: center;">
     <h3>Ciência de Dados / Visualização</h3>
     <div style="display: flex; gap: 10px; align-items: center;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" alt="Matplotlib" title="Matplotlib" />
@@ -30,7 +30,7 @@
   </div>
 
   <!-- Hardware / IoT -->
-  <div>
+  <div style="display: flex; flex-direction: column; align-items: center;">
     <h3>Hardware / IoT</h3>
     <div style="display: flex; gap: 10px; align-items: center;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" alt="Arduino" title="Arduino" />
@@ -38,6 +38,7 @@
   </div>
 
 </div>
+
 
 <!--
 <picture>
