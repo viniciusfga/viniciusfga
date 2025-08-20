@@ -1,44 +1,31 @@
-<h2>Tecnologias</h2>
+<h3 align="left">Connect with me!</h3>
 
-<div style="display: flex; gap: 40px; flex-wrap: wrap;">
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/viniciusfga/)
 
-  <!-- Front-end -->
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <h3>Front-end</h3>
-    <div style="display: flex; gap: 10px; align-items: center;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5" title="HTML5" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3" title="CSS3" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" title="JavaScript" />
-    </div>
-  </div>
+<h3 align="left">My Stack </h3>
 
-  <!-- Back-end -->
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <h3>Back-end</h3>
-    <div style="display: flex; gap: 10px; align-items: center;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" title="Python" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java" title="Java" />
-    </div>
-  </div>
-
-  <!-- Ciência de Dados / Visualização -->
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <h3>Ciência de Dados / Visualização</h3>
-    <div style="display: flex; gap: 10px; align-items: center;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" alt="Matplotlib" title="Matplotlib" />
-    </div>
-  </div>
-
-  <!-- Hardware / IoT -->
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <h3>Hardware / IoT</h3>
-    <div style="display: flex; gap: 10px; align-items: center;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" alt="Arduino" title="Arduino" />
-    </div>
-  </div>
-
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="25" alt="php logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="25" alt="c logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="mysql logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="25" alt="python logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" height="25" alt="matplotlib logo"  />
+  <img width="8" />
 </div>
 
+<!--COBRINHA-->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/viniciusfga/viniciusfga/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/viniciusfga/viniciusfga/output/github-contribution-grid-snake.svg">
