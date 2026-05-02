@@ -1,7 +1,7 @@
 <h2 align="center">Vinícius F. G. Araújo</h2>
 
 <p align="center">
-🚀 Software Developer | 🔐 Cybersecurity | 🤖 Embedded Systems & Robotics | 🐧 Linux
+🚀 Software Developer | 💻 Computer Networks | 🤖 Embedded Systems & Robotics | 🐧 Linux
 </p>
 
 ## Sobre mim
@@ -43,7 +43,7 @@
 
 🤖 Veículo Autônomo Agrícola *(em desenvolvimento)*  
 → Navegação com sensores e visão computacional  
-**Stack:** Python / OpenCV / Raspberry Pi / Arduino  
+**Stack:** Python / CNN / Raspberry Pi / Arduino  
 
 <!-- COBRINHA -->
 <picture>
